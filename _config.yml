@@ -166,10 +166,10 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: wangjing305
+    username: 纯洁的微笑
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: wangjing305
+    owner: 纯洁的微笑
     repo: blog-comments
     oauth:
         client_id: 61bfc53d957e74e78f8f

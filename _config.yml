@@ -17,7 +17,7 @@ favicon: favicon.png
 
 repository: wangjing305/wangjing305.github.io
 github_url: https://github.com/wangjing305
-cnblog_url: http://www.cnblogs.com/ityouknow
+cnblog_url: http://www.cnblogs.com/wangjing305
 url: http://wangjing305.github.io
 enforce_ssl: wangjing305.com
 
@@ -166,10 +166,10 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: 纯洁的微笑
+    username: wangjing305
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: 纯洁的微笑
+    owner: wangjing305
     repo: blog-comments
     oauth:
         client_id: 61bfc53d957e74e78f8f
